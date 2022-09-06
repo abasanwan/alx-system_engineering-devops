@@ -1,1 +1,1 @@
- a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+10  a script that displays the result of BREATH to the power LOVE
